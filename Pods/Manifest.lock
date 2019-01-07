@@ -1,0 +1,20 @@
+PODS:
+  - MJExtension (3.0.15.1)
+  - YYCache (1.0.4)
+
+DEPENDENCIES:
+  - MJExtension
+  - YYCache
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MJExtension
+    - YYCache
+
+SPEC CHECKSUMS:
+  MJExtension: 19bc33ce2eee2d319760f5622562cf581a6ff756
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+
+PODFILE CHECKSUM: b80d9ec06376af85dea5ce19c2452fb27258d8ea
+
+COCOAPODS: 1.5.3
